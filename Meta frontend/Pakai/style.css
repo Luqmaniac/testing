@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(217, 247, 247);
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+#Header1{
+    color:palevioletred;
+}
+#Header2{
+    color: blue;
+}
+#Header3{
+    color: hotpink;
+}
+
+body{
+    text-align: center;
+}
